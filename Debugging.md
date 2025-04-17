@@ -1,4 +1,6 @@
-Debugging command for the ingame debug console to test :
+Paste everything under the line into the ingame debug console to check if the AI gets assigned to the headless clients:
+
+----------------------------------------------------------------------------------------------------
 
 private _aiUnits = allUnits select {!isPlayer _x && side _x != civilian}; 
 private _serverUnits = _aiUnits select {groupOwner (group _x) == 2}; 
