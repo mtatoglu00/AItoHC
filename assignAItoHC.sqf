@@ -4,8 +4,7 @@
 	Version: 0.1
 	
 	Description:
-
-    Assigns and balances AI units to an available headless client
+    		Assigns and balances AI units to an available headless client
 	
 	License:
 		Copyright � 2025 Mete Tatoglu. All rights reserved.
