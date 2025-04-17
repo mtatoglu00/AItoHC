@@ -1,3 +1,5 @@
+Supports up to 5 headless clients
+
 Setup:
 
 1. Copy the assignAItoHC.sqf into your mission directory
